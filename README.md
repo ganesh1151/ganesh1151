@@ -85,7 +85,8 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://www.linkedin.com/in/ganesh-chavan1151/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ganesh Chavan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100016071792182" target="_blank"><img align="center" src="https://github.com/ganesh1151/ganesh1151/blob/main/Facebook-logo.png" alt="Ganesh Chavan" height="30" width="40" /></a>
-  <a href=https://www.instagram.com/ganesh_1151/" target="_blank"><img align="center" src="https://https://github.com/ganesh1151/ganesh1151/blob/main/instagram.png" alt="Ganesh Chavan" height="30" width="40" /></a>
+ <!--<a href=https://www.instagram.com/ganesh_1151/" target="_blank"><img align="center" src="https://https://github.com/ganesh1151/ganesh1151/blob/main/instagram.png" alt="Ganesh Chavan" height="30" width="40" /></a>
+-->
 </p>
 
 
