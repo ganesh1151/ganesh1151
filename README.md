@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Ganesh Chavan from India.
-- 🎓 I’m currently pursuing my BE in Computer Engineering from MET's Institute of Engineering , Adgaon , Nashik India.
-- 🌱 I’m currently MERN Stack developer, learning different full stack technologies and practicing competitive programming.
-- 👯 I always look forward for collaborating in exciting Web Development Projects/Open-source Projects.
-- 💬 Ask me about Full Stack technologies, Competitive programming and life in general.
+- 🎓 I’m currently working as Software Developer at Softdel System, Pune, India.
+- 🌱 I’m currently Android developer, learning Jetpack Compose and KMP.
+- 👯 I always look forward for collaborating in exciting Android and IOS APP Projects.
+- 💬 Ask me about Andorid Development, Competitive programming and life in general.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ganesh-chavan1151/).
 
 
